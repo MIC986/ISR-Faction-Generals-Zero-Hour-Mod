@@ -14,3 +14,5 @@ You need Windows, a legitimate copy of *Zero Hour* updated to version 1.04, [Gen
 4. Open your GenLauncher, select **ISR Faction 1.0.0**, and play!
 
 For removal, run the same EXE and choose **Remove this version**. Removing ISR Faction 1.0.0 leaves separately installed versions alone.
+
+> Mod was created with the assistance of AI
