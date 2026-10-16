@@ -1,0 +1,277 @@
+{
+  "build": "1.0.0",
+  "creator": "ISR Faction Team",
+  "public_key_sha256": "0ccbd398e1cdd7eef69c66d055d981b16c7322ed7696be19f1bc4aaee0789d33",
+  "files": [
+    {
+      "path": "CREDITS-AND-ORIGIN.md",
+      "size": 2343,
+      "sha256": "feac7139115cf21f6e3a8109e08c3340f989aa64b2a37eaa01748eeaf30d0792"
+    },
+    {
+      "path": "docs/Asset-provenance.json",
+      "size": 225928,
+      "sha256": "30bb579e4fa04c1cf28400c8e85be60f874fc2aa3d103c9e5de6576dc9ab7b3a"
+    },
+    {
+      "path": "docs/Astra-buildings-in-game.png",
+      "size": 3014175,
+      "sha256": "2ecf8ef6b01e13e0f19b16ee1e5f5dbe6b38c8bb93f0160c2171b30b511ae6dc"
+    },
+    {
+      "path": "docs/Community-upload.md",
+      "size": 2908,
+      "sha256": "680f9d591ed889e824d2c3f6dd50a3e9a71dfa9da51adff734d281b3cce797f6"
+    },
+    {
+      "path": "docs/Defense-quick-reference.md",
+      "size": 2014,
+      "sha256": "a173cb26d999fbbf79bc3362e04c7ddf3db11145e9cfac410e781d3f2236be9b"
+    },
+    {
+      "path": "docs/Installation.md",
+      "size": 2887,
+      "sha256": "c77a821f29515d595f0b10c68ca37c313eb959b411d75a202a859ca4e9cea168"
+    },
+    {
+      "path": "docs/Public-upload-preview.png",
+      "size": 50103,
+      "sha256": "5a9b4f816e04c0a34efb90e4f33057d94d896ba5bb11126dc582c7ad82d71a4f"
+    },
+    {
+      "path": "docs/qa/Release-1.0.0/release100-actual-install.json",
+      "size": 529,
+      "sha256": "d10f685a786847101ea2542966ca6941a4dda0a34f9f524074dcc033620e4268"
+    },
+    {
+      "path": "docs/qa/Release-1.0.0/release100-beam-restored-checked.json",
+      "size": 606,
+      "sha256": "5cff12556dace277ff3b24bd34d29e4958b57e9edf873d854acd26c7c8f21197"
+    },
+    {
+      "path": "docs/qa/Release-1.0.0/release100-beam-restored-checked.log",
+      "size": 119903,
+      "sha256": "01e8f6be60c6f0aae4bbbe653ab5cb2e682596dfb3e7eaa33436405b3059cf04"
+    },
+    {
+      "path": "docs/qa/Release-1.0.0/release100-beam-verified.json",
+      "size": 602,
+      "sha256": "8a6b5e58fe3a9a28f2e10b3a4329f51ab8ac54217df3f4002fd3534879ec3da9"
+    },
+    {
+      "path": "docs/qa/Release-1.0.0/release100-beam-verified.log",
+      "size": 140066,
+      "sha256": "84a114b4a27d99f9b2e5f82413c66fa9aa3f5ba6b56a432c75a1198005a56d98"
+    },
+    {
+      "path": "docs/qa/Release-1.0.0/release100-dome-real.json",
+      "size": 598,
+      "sha256": "99581c8b11797b4817bbfb418e34075b7bc21b22b07b30bb387d5474fcfa78fb"
+    },
+    {
+      "path": "docs/qa/Release-1.0.0/release100-dome-real.log",
+      "size": 128617,
+      "sha256": "f012b344c545eda75de6a82663586ab019aa0a0b3999f48bc73dcac0b120b9e3"
+    },
+    {
+      "path": "docs/qa/Release-1.0.0/release100-dome-restored.json",
+      "size": 598,
+      "sha256": "9b7790c17efd8c87b2d633258bb916b6dd5114eadb57e693cf9e1f2e273b7ace"
+    },
+    {
+      "path": "docs/qa/Release-1.0.0/release100-dome-restored.log",
+      "size": 124357,
+      "sha256": "55b549710fa5fab1aab57b12e24fbe53528b246b850027f6aa753047d6dcc036"
+    },
+    {
+      "path": "docs/qa/Release-1.0.0/release100-dome-verified.json",
+      "size": 602,
+      "sha256": "2ec78897ea4b8e5ddbca68d0bf4eb4309db17390bf2684fe230fcedd91261a9f"
+    },
+    {
+      "path": "docs/qa/Release-1.0.0/release100-dome-verified.log",
+      "size": 129723,
+      "sha256": "26e6579cf3338dd58d1f98f3b4b69640ec302c070dbe385f4db21ad907d7844c"
+    },
+    {
+      "path": "docs/qa/Release-1.0.0/release100-evidence.json",
+      "size": 11158,
+      "sha256": "f6a602112e3e0200f46e68a5e8e8ecf2c11ed3b8829dc21e1e1985a02733c41f"
+    },
+    {
+      "path": "docs/qa/Release-1.0.0/release100-fresh-test.json",
+      "size": 194,
+      "sha256": "1f198f8068ecc496cbafcdbc0c75ba67f8c0527935632a5f98be44cad38a16c9"
+    },
+    {
+      "path": "docs/qa/Release-1.0.0/release100-gameplay.json",
+      "size": 2394,
+      "sha256": "9a0e1e07c27f4f32a4c11d6f105b2b87e88d4a894b52c2b04a84f0561947e3cf"
+    },
+    {
+      "path": "docs/qa/Release-1.0.0/release100-installed-normal.json",
+      "size": 475,
+      "sha256": "3e07e99e83f314d34d14c25ef9eeb30eee026fae19b2f6a47def7c57d48f8b88"
+    },
+    {
+      "path": "docs/qa/Release-1.0.0/release100-missile-matrix.json",
+      "size": 603,
+      "sha256": "00d3a815c2a06dca48b7eff8d986d0680b85ea7d041b0cf12b68a49b9389128b"
+    },
+    {
+      "path": "docs/qa/Release-1.0.0/release100-missile-matrix.log",
+      "size": 140712,
+      "sha256": "cfe3a50a44f9fb4e9ad229997c05cbb3d9a7af857f24ce2bd915ceddb2db3be3"
+    },
+    {
+      "path": "docs/qa/Release-1.0.0/release100-package-test.json",
+      "size": 421,
+      "sha256": "89ed139137a141d9960a9c8ab310efa832401e3297fc562ecdfb229a2601ed6d"
+    },
+    {
+      "path": "docs/qa/Release-1.0.0/release100-packaged-normal.json",
+      "size": 476,
+      "sha256": "16f5fc1f8b0308cd9e16c5a8ccdb96ad8faa8c6d590849c2fdb27176063b7061"
+    },
+    {
+      "path": "docs/qa/Release-1.0.0/release100-static-audit.json",
+      "size": 4490,
+      "sha256": "f8c438f5a4839ec7fa3fec6fd56a664209498db019be7033ce23d4835135fda3"
+    },
+    {
+      "path": "docs/Release-authenticity.md",
+      "size": 1191,
+      "sha256": "0a32e99ca0d1b7964d860578d0332bedada0668717579148ecce109f9bfa0e22"
+    },
+    {
+      "path": "docs/Release-notes.md",
+      "size": 3875,
+      "sha256": "6c1fa891bfdc003fc4b9e2b1cf4ba1c062efeb3b65ebca9495f49250ca881d7b"
+    },
+    {
+      "path": "docs/Validation.md",
+      "size": 1757,
+      "sha256": "63dd6f19fe3b7cbb43b3f8a95e18232fb5b86f0b863fea1b1f09f6a037c95404"
+    },
+    {
+      "path": "Install-ISR-Faction.exe",
+      "size": 27648,
+      "sha256": "b3a4b7a0c6927b5f893ba13df971c27691608c0ff166e11846311a5a69b5752f"
+    },
+    {
+      "path": "licenses/Attribution-and-redistribution.md",
+      "size": 2157,
+      "sha256": "68440103fc1e5dc06bfb7f54d8cac90ddc38807367f58399f95b17c0f372f417"
+    },
+    {
+      "path": "licenses/GameMath-LICENSE.md",
+      "size": 2265,
+      "sha256": "5482cc9d156938039bab9a8a5efd11c03aad7ce3efcdb5e5eefe033b93d3bb17"
+    },
+    {
+      "path": "licenses/GameSpy-LICENSE.txt",
+      "size": 1560,
+      "sha256": "8752484d27464e7fa6732477783978420e47cccc29f10a8d8c6d59ec3523da0f"
+    },
+    {
+      "path": "licenses/GeneralsX-LICENSE.md",
+      "size": 37351,
+      "sha256": "aafe9ca8ad6448657385769ce5b3259eff9ef81890356734a63151f9fb4ba4b2"
+    },
+    {
+      "path": "licenses/lzhl-LICENSE.txt",
+      "size": 559,
+      "sha256": "61ac9d4c08c0c8296bdc553d5c95e5b0ae544bf0ec7f2c39adf3b75b129cbe1e"
+    },
+    {
+      "path": "licenses/stb-LICENSE.txt",
+      "size": 2547,
+      "sha256": "11dd149dbc50748419a22fcec275b5bcfb4c2d86d9fba8802e5c4ffd40c94609"
+    },
+    {
+      "path": "licenses/Voice-generation-notice.md",
+      "size": 668,
+      "sha256": "f0f316a310dea56b1e3ae3306faf94cc569ab48eb019da4c9eb323c8f6116b2d"
+    },
+    {
+      "path": "licenses/YamlDotNet-LICENSE.txt",
+      "size": 1110,
+      "sha256": "daea8b7f1b2bab48ea12ad50b0ce91634669d99d7dd0cb64aed8dffeeef69ed3"
+    },
+    {
+      "path": "licenses/zlib-LICENSE.txt",
+      "size": 1366,
+      "sha256": "53266ccb2f60a462ccc4c88a9c5aabebf15dae1ad56fdf58b9027cf605c555f0"
+    },
+    {
+      "path": "payload/!ISRFaction-1.0.0.gib",
+      "size": 248496836,
+      "sha256": "872fbb607c9bfdfb0035b6c43024b7cbc53aee7d4cff8316b334ccc694be0d01"
+    },
+    {
+      "path": "payload/executable/IsraelFrontierLauncher.exe",
+      "size": 10752,
+      "sha256": "16f502d75c5923288ed5dc6c5cd8424ca45dd7446d72154be8ce59eddca31c6f"
+    },
+    {
+      "path": "payload/executable/IsraelFrontierRuntime/GeneralsXZH.exe",
+      "size": 6939648,
+      "sha256": "f672a060d5780701af9bf8ea1f159a6a31b8b96da8a83bd68a363d9666ff63fa"
+    },
+    {
+      "path": "README.md",
+      "size": 1515,
+      "sha256": "a6daa2a247c7b22738502ad5ea9374f6ee44a9883431da6b34f0820077a2db53"
+    },
+    {
+      "path": "release-public-key.pem",
+      "size": 625,
+      "sha256": "6438837ed49207b55bb2846a07de3a207c3f2146f504dd55f8aca2570b924529"
+    },
+    {
+      "path": "release-public-key.xml",
+      "size": 585,
+      "sha256": "f78daaed23cbca2a0bfbe96324c6a9798af3d5ad805068521e7d36c688327578"
+    },
+    {
+      "path": "source/BUILDING.md",
+      "size": 3397,
+      "sha256": "7d6dd973036698d1d80c8ce53a8ecfc26d45fb383b9806d0a98fb29c4de4313e"
+    },
+    {
+      "path": "source/GeneralsX-source-1.0.0.zip",
+      "size": 23663367,
+      "sha256": "5febe5f4481f81053443d3ff210d1b88eb03b3367066931ec5db9f61a26cb1d5"
+    },
+    {
+      "path": "source/ISR-Faction-authored-source-1.0.0.zip",
+      "size": 242220423,
+      "sha256": "c3a0f26f2faf6f8bc8a419db93144185cbe94b6b7cb1293e44a81f7ac116c9e4"
+    },
+    {
+      "path": "source/IsraelFrontierInstaller.cs",
+      "size": 26056,
+      "sha256": "1c92f260217b98d3efcfbe11af88f7e534ace0e419197f663f5643f9d81e13a4"
+    },
+    {
+      "path": "source/IsraelFrontierLauncher.cs",
+      "size": 8083,
+      "sha256": "f6aa9c2f0537a39eacaae0b0c649621beeffa71a8c093ed40db15ab46a72a9a1"
+    },
+    {
+      "path": "source/portrait-generation-notes.md",
+      "size": 2579,
+      "sha256": "a20bf77c5a4ad092dc6c64bfe6996a65ac2aee26734337c91d7f504414a741fe"
+    },
+    {
+      "path": "Verify-release.ps1",
+      "size": 1501,
+      "sha256": "3ca1221fb1f23a78def4d47921982c4b71dee5d94da09a455cb9f8b52cadcd3f"
+    },
+    {
+      "path": "YamlDotNet.dll",
+      "size": 222208,
+      "sha256": "f24d57a17849f58239561ba7872f2aa68bf6c80f365a0fcd6aeef06b4440b476"
+    }
+  ]
+}
