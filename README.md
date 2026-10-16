@@ -1,9 +1,16 @@
 # ISR Faction 1.0.0
 
-1. Extract this entire download to a folder. Keep Install-ISR-Faction.exe, YamlDotNet.dll and payload together.
-2. Close the game and GenLauncher. Run Install-ISR-Faction.exe and choose your actual Zero Hour folder containing GenLauncher.exe and INIZH.big. Choose Install. A protected game folder may require Windows administrator approval from its owner.
-3. Open your normal GenLauncher, select ISR Faction version 1.0.0 and click LAUNCH GAME. Choose Skirmish and an Israeli army, or assign it to a computer opponent.
+Four new armies join *Command & Conquer: Generals Zero Hour*: Israel, Israel Precision Air, Israel Air Defense, and Israel Intelligence.
 
-Use the included installer to register the required custom engine. Importing only the .gib archive through Add Mod from Files is insufficient.
+> This mod supports Multiplayer and AI.
 
-Read docs/Installation.md for removal and troubleshooting; docs/Release-notes.md for changes and testing limits. Source and third-party notices are included. Free distribution only under the applicable notices. Do not claim to have created someone else's work.
+## Install
+
+You need Windows, a legitimate copy of *Zero Hour* updated to version 1.04, [GenLauncher](https://www.moddb.com/mods/genlauncher), the Microsoft Visual C++ 2015–2022 Redistributable (x86), and .NET Framework 4.5 or later.
+
+1. Download **Install-ISR-Faction-1.0.0.exe** from the GitHub Release.
+2. Make sure your game and GenLauncher are closed. Run the installer.
+3. Select your Zero Hour installation folder. the folder containing `GenLauncher.exe` and `INIZH.big` then choose **Install into GenLauncher**.
+4. Open your GenLauncher, select **ISR Faction 1.0.0**, and play!
+
+For removal, run the same EXE and choose **Remove this version**. Removing ISR Faction 1.0.0 leaves separately installed versions alone.
