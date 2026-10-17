@@ -1,7 +1,7 @@
 # ISR Faction 1.1.1
 
 <p align="center">
-  <a href="https://github.com/MIC986/ISR-Faction-Generals-Zero-Hour-Mod/releases"><b>Download</b></a> ·
+  > <a href="https://github.com/MIC986/ISR-Faction-Generals-Zero-Hour-Mod/releases"><b>Download</b></a> <
 </p>
 
 <img width="1672" height="940" alt="ISR_FACTION_MOD_THUMBNAIL" src="https://github.com/user-attachments/assets/144bcba1-5c98-4e73-a967-748d7e9fe945" />
