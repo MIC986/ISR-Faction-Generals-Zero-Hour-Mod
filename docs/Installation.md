@@ -11,15 +11,15 @@
 ## Install
 
 1. Exit Zero Hour and close GenLauncher.
-2. Run **Install-ISR-Faction-1.0.0.exe**. Approve the Windows administrator prompt if Windows asks; setup needs access to the game and GenLauncher folders.
+2. Run **Install-ISR-Faction-1.1.1.exe**. Approve the Windows administrator prompt if Windows asks; setup needs access to the game and GenLauncher folders.
 3. In the installer, browse to the Zero Hour installation folder. Choose the folder that contains both `GenLauncher.exe` and `INIZH.big`.
 4. Select **Install into GenLauncher** and let setup finish.
-5. Start your GenLauncher. Choose **ISR Faction 1.0.0**, launch the game.
+5. Start your GenLauncher. Choose **ISR Faction 1.1.1**, launch the game.
 
 ## Remove
 
 1. Close Zero Hour and GenLauncher.
-2. Run **Install-ISR-Faction-1.0.0.exe** again.
+2. Run **Install-ISR-Faction-1.1.1.exe** again.
 3. Choose **Remove this version** and follow the prompts.
 
 This removes only the current version of this mod.
