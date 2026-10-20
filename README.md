@@ -8,7 +8,7 @@
 
 Four new armies join *Command & Conquer: Generals Zero Hour*: Israel, Israel Precision Air, Israel Air Defense, and Israel Intelligence.
 
-> This mod supports Multiplayer and AI.
+> This mod supports Multiplayer, AI and all GenPatch custom control bars.
 
 ## Install
 
