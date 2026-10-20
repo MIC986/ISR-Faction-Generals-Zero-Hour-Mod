@@ -24,7 +24,7 @@ For removal, run the same EXE and choose **Remove this version**. Removing ISR F
 > Mod was created with the assistance of AI
 
 
-## Explanation
+## About the mod
 
 **ISR Faction** adds four Israeli armies to *Command & Conquer: Generals Zero Hour*, combining Israeli military equipment with Zero Hour’s base building, promotions and battlefield tactics.
 
