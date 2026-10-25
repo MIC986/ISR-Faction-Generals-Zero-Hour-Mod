@@ -1,10 +1,14 @@
-# ISR Faction 1.2.1
+# ISR Faction 2.0.0
 
 <p align="center">
   > <a href="https://github.com/MIC986/ISR-Faction-Generals-Zero-Hour-Mod/releases"><b>Download</b></a> <
 </p>
 
-<img width="1672" height="940" alt="ISR_FACTION_MOD_THUMBNAIL" src="https://github.com/user-attachments/assets/144bcba1-5c98-4e73-a967-748d7e9fe945" />
+<p align="center">
+  <a href="https://youtu.be">
+    <img src="https://github.com/user-attachments/assets/2e5f85d6-c3af-4007-a99a-62a70546ae40" alt="Watch ISR Faction | Generals Zero Hour Mod" width="600">
+  </a>
+</p>
 
 Four new armies join *Command & Conquer: Generals Zero Hour*: Israel, Israel Precision Air, Israel Air Defense, and Israel Intelligence.
 
@@ -14,15 +18,14 @@ Four new armies join *Command & Conquer: Generals Zero Hour*: Israel, Israel Pre
 
 You need Windows, a legitimate copy of *Zero Hour* updated to version 1.04, [GenLauncher](https://www.moddb.com/mods/genlauncher), the Microsoft Visual C++ 2015–2022 Redistributable (x86), and .NET Framework 4.5 or later.
 
-1. Download [**Install-ISR-Faction-1.2.1**](https://github.com/MIC986/ISR-Faction-Generals-Zero-Hour-Mod/releases) from the GitHub Release.
-2. Make sure your game and GenLauncher are closed. Run the installer.
-3. Choose **GenLauncher** to install the mod into GenLauncher or **Directly game installation** to install the mod directly on your game folder `Direct game installation not recommended before cloning the game`.
-4. Click `Play` and that's it!
+1. Download [**ISR-Faction-2.0.0-Portable.zip**](https://github.com/MIC986/ISR-Faction-Generals-Zero-Hour-Mod/releases) from the GitHub Release.
+2. Put the **!!ISRFaction-2.0.0.big** file into the game folder or in GenLauncher as a mod.
+3. Run the EXE **once** and **only** if you have any of these in your game: Custom control bar or hotkey pack (etc... Control Bar Pro) or Non-English game. If not, there is no needed to touch that EXE.
+4. Now you can play but launching Zero Hour if installed on game folder or launching the mod from GenLauncher. 
 
-For removal, run the same EXE and choose **Remove this version**. Removing ISR Faction 1.2.1 leaves separately installed versions alone.
+For removal, if installed on the game folder remove `!!ISRFaction-2.0.0.big` or if on GenLauncher click on the version then delete.
 
 > Mod was created with the assistance of AI
-
 
 ## About the mod
 
@@ -119,48 +122,3 @@ Use concealed scouts, forward observers and electronic warfare to prepare attack
 Develop your army through **C4I research**, General’s promotions and faction-specific support buildings. **Technology Export Offices** provide late-game income through investment in specialist export contracts.
 
 **Skirmish AI and multiplayer are supported.** All multiplayer participants should use the same mod and custom engine version.
-
-
-## ISR Faction in action
-
-### F-35I Adir SCUD Storm strike
-
-https://github.com/user-attachments/assets/73b78e2b-eda7-4247-a57b-830da5016ad8
-
-### Arrow 3 nuclear missile interception
-
-https://github.com/user-attachments/assets/6780b499-6163-438f-abb0-72f49910ac2c
-
-## Screenshots
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/c9aebe93-ca4a-4613-8bd1-861e3cde9223" alt="F-35I Adir formation" width="450">
-      <br><b>F-35I Adir</b>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/a985213c-6662-4d23-98bb-bbd6d2e4570f" alt="Merkava tanks firing" width="450">
-      <br><b>Merkavas</b>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/cc96f14e-e4a0-4108-950a-20d6c0306b03" alt="Iron Beam intercepting a missile" width="450">
-      <br><b>Iron Beam interception</b>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/b6ab0f1a-aac5-41ce-bd8c-341a3b81fcde" alt="Iron Dome intercepting a missile" width="450">
-      <br><b>Iron Dome interception</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/2f25f82f-7771-4e4f-abd3-bb128729e49a" alt="Merkava formation advancing" width="450">
-      <br><b>Armored advance</b>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/9ec36ef8-2ca9-4480-8c53-e7a71c2fbd5b" alt="Israeli headquarters at the start of a match" width="450">
-      <br><b>Israeli headquarters</b>
-    </td>
-  </tr>
-</table>
