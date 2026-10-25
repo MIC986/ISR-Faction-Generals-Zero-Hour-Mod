@@ -19,7 +19,7 @@ Four new armies join *Command & Conquer: Generals Zero Hour*: Israel, Israel Pre
 You need Windows, a legitimate copy of *Zero Hour* updated to version 1.04, [GenLauncher](https://www.moddb.com/mods/genlauncher) (Optional), the Microsoft Visual C++ 2015–2022 Redistributable (x86), and .NET Framework 4.5 or later.
 
 1. Download [**ISR-Faction-2.0.0-Portable.zip**](https://github.com/MIC986/ISR-Faction-Generals-Zero-Hour-Mod/releases) from the GitHub Release.
-2. **Skip this step if your game doesn't have one of these: Custom control bar or hotkey pack (etc... Control Bar Pro) or Non-English game.** Run the EXE **once** and **only** If not, there is no needed to touch that EXE. Then if you want to intsall on GenLauncher remove `!!ISRFaction-2.0.0.big` from the game folder and install it in GenLauncher as mod instead.
+2. **Skip this step if your game doesn't have one of these: Custom control bar or hotkey pack (etc... Control Bar Pro) or Non-English game.** Run the EXE **once** and **only** If not having one of the listed. Then if you want to intsall the mod on GenLauncher remove `!!ISRFaction-2.0.0.big` from the game folder and install it on GenLauncher as a mod.
 3. If your game doesn't have one of the listed in 3, Put the **!!ISRFaction-2.0.0.big** file into the game folder or in GenLauncher as a mod.
 4. Now you can play bt launching Zero Hour if installed on game folder or launching the mod from GenLauncher. 
 
