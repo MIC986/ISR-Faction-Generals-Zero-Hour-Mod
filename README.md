@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://youtu.be">
+  <a href="https://www.youtube.com/watch?v=cKT3JtvU__E" target="_blank">
     <img src="https://github.com/user-attachments/assets/2e5f85d6-c3af-4007-a99a-62a70546ae40" alt="Watch ISR Faction | Generals Zero Hour Mod" width="600">
   </a>
 </p>
