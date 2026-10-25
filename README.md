@@ -20,8 +20,8 @@ You need Windows, a legitimate copy of *Zero Hour* updated to version 1.04, [Gen
 
 1. Download [**ISR-Faction-2.0.0-Portable.zip**](https://github.com/MIC986/ISR-Faction-Generals-Zero-Hour-Mod/releases) from the GitHub Release.
 2. **Skip this step if your game doesn't have one of these: Custom control bar or hotkey pack (etc... Control Bar Pro) or Non-English game.** Run the EXE **once** and **only** If not having one of the listed. Then if you want to intsall the mod on GenLauncher remove `!!ISRFaction-2.0.0.big` from the game folder and install it on GenLauncher as a mod.
-3. If your game doesn't have one of the listed in 3, Put the **!!ISRFaction-2.0.0.big** file into the game folder or in GenLauncher as a mod.
-4. Now you can play bt launching Zero Hour if installed on game folder or launching the mod from GenLauncher. 
+3. If your game doesn't have one of the listed in 3, Put the **!!ISRFaction-2.0.0.big** file into the game folder or on GenLauncher as a mod.
+4. Now you can play by launching Zero Hour if installed on game folder or launching the mod from GenLauncher. 
 
 For removal, if installed on the game folder remove `!!ISRFaction-2.0.0.big` or if on GenLauncher click on the version then delete.
 
